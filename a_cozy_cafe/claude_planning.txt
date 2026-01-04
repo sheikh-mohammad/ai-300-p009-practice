@@ -1,0 +1,43 @@
+# Project: 
+
+## Key Directives (Goal)
+
+Build a Cozy Café where students can study quietly.
+
+- Primary Goal: 
+- Style Goal: 
+
+## Non Negotiable Rules (Constraints)
+
+- Constraint: The café must have only 10–15 seats
+- Constraint: The theme must be “quiet / study-friendly”
+- Style Rule: Only soft colors allowed in design
+
+## Style or Design Rule
+
+- The style must be minimal and clean
+- Wooden furniture only
+- Warm lights instead of bright white lights
+
+## Key Location (File Context)
+
+List the main parts of your project in simple terms.
+
+- Menu
+- Sitting Area Layout
+- Staff Schedule
+- Cash Counter Setup
+
+## Example Request
+
+Write **one short example** of how someone might ask Claude to work on your project
+
+AND
+
+explain how the Project Brief helps.
+
+Example:
+
+“Design the seating layout.”
+
+→ Claude will keep it small because your Project Brief says only 10–15 seats.
