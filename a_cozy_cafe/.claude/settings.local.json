@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(git commit -m \"Add Git workflow section to CLAUDE.md for proper version control\")"
-    ]
-  }
-}

@@ -79,3 +79,31 @@ git push origin main          # Push changes to remote repository
 - Keep commits focused on specific aspects of the café project
 - Ensure each commit maintains the core vision of the cozy, study-friendly café
 - Verify that changes align with the constraints (seating capacity, color scheme, etc.)
+
+## Project Structure
+
+The project is organized into the following folder structure for better maintainability:
+
+```
+├── CLAUDE.md (this file)
+├── claude_planning.txt
+└── docs/
+    ├── branding/
+    │   ├── CLAUDE.md (original branding documents)
+    │   └── claude_planning.txt
+    ├── design/
+    │   ├── cafe_architecture.md
+    │   └── seating_layout.md
+    ├── menu/
+    │   └── menu.md
+    └── operations/
+        ├── cash_counter_setup.md
+        └── staff_schedule.md
+```
+
+### Folder Descriptions:
+- **Root directory**: Contains main project overview files
+- **docs/branding/**: Brand identity and project planning documents
+- **docs/design/**: Architectural and layout design documents
+- **docs/menu/**: Menu planning and food/beverage specifications
+- **docs/operations/**: Operational procedures and staff management
