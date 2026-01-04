@@ -49,3 +49,33 @@ Minimal and efficient counter design that doesn't disrupt the calm ambiance of t
 ## How This Project Brief Helps
 
 This document serves as a reference for maintaining consistency with the core vision of the cozy café. All decisions regarding design, functionality, and implementation should align with the constraints and goals outlined above. This ensures that the final result remains true to the intended quiet, study-friendly atmosphere with the appropriate aesthetic and capacity limitations.
+
+## Git Workflow for Claude
+
+When Claude works on this project, the following Git workflow should be followed to ensure proper version control and collaboration:
+
+### Single Iteration Workflow
+1. **Analyze the codebase** - Before making changes, examine all relevant files to understand the current state
+2. **Stage changes** - Use `git add` to stage only the files that were modified in the current iteration
+3. **Create descriptive commit** - Make a commit with a clear message describing the changes made
+4. **Push to remote** - Push changes to the remote repository to maintain an up-to-date history
+
+### Commit Message Guidelines
+- Start with a brief summary of the changes (imperative mood)
+- Include reference to which part of the café project was modified
+- Follow with details if necessary
+
+### Example Workflow Commands
+```bash
+# After making changes to project files
+git status                    # Check which files were modified
+git add .                     # Stage all modified files
+git commit -m "Update seating layout design following project constraints"  # Commit with descriptive message
+git push origin main          # Push changes to remote repository
+```
+
+### Best Practices
+- Always analyze the entire codebase before committing to ensure consistency with project goals
+- Keep commits focused on specific aspects of the café project
+- Ensure each commit maintains the core vision of the cozy, study-friendly café
+- Verify that changes align with the constraints (seating capacity, color scheme, etc.)
